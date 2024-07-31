@@ -35,7 +35,6 @@ To get started with the design and implementation, clone this repository and fol
 - Basic knowledge of HTML, CSS, and JavaScript
 
 ### Access the file in Figma
-    ```
 
 2. Open the `Nav Bharat Khadi Store.fig` file in your browser/software to view the design.
 
